@@ -40,6 +40,7 @@ while xox:
             flip_player()
 
         if winner == "X" or winner == "O":
+            flip_player()
             print(winner + " won.")
         elif winner is None:
             print("Tie! \_0_/ || \_0_/")

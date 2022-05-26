@@ -1,6 +1,6 @@
 # Python-Projects
 
-You can go to the link for Turkish education videos --> https://www.youtube.com/watch?v=57U1V5gVjTc&list=PL3gO6Y7RMb3lNP4uBeqPf8Dii3D_ORpTD
+You can visit the link for Turkish education videos --> https://www.youtube.com/watch?v=57U1V5gVjTc&list=PL3gO6Y7RMb3lNP4uBeqPf8Dii3D_ORpTD
 
 ## Python | Example Project 1 # XOX Game
 ![Python | Example Project 1 # XOX Game](https://user-images.githubusercontent.com/54884571/170547616-a8226ecf-bc38-4366-b5f5-22cd5346e3a5.png)
